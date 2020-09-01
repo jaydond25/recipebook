@@ -1,0 +1,42 @@
+h1 {
+    font-family: 'Cedarville cursive', cursive;
+    text-align: center;
+    font-size: 40px;
+    margin: 0;
+}
+
+h3 {
+    font-family: 'Kalam', cursive;
+    text-align: center;
+    margin: 0;
+    font-size: 28px;
+}
+
+img {
+    width: 40px;
+}
+
+
+li {
+    list-style: none;
+    display: inline;
+    text-align: center;
+    float: left;
+    background-color: grey;
+}
+
+.navbar-1 {
+    padding: 10px;
+}
+
+.navbar-2 {
+    padding: 10px;
+}
+
+.navbar-3 {
+    padding: 10px;
+}
+
+.navbar-4 {
+    padding: 10px;
+}
